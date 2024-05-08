@@ -8,7 +8,7 @@
 ## 1. Co-Development Environment   
 ### 1. 1 Environments
 - Windows 10
-- Android Studio / Kotlin 
+- Android Studio / Kotlin, JAVA
 - Firebase
 - GitHub
 
@@ -33,3 +33,6 @@
 ### 3.2  firebase-ml-vision-face-model
 
 ## 4. Result
+- 카메라 화면 결과
+
+  
