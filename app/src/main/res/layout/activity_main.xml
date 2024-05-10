@@ -8,13 +8,13 @@
         tools:context=".MainActivity">
 
         <androidx.camera.view.PreviewView
+            android:visibility="invisible"
             android:id="@+id/view_finder"
             android:layout_width="240dp"
-            android:layout_height="320dp"
-            android:visibility="invisible"/>
+            android:layout_height="320dp"/>
 
         <ImageView
-            android:id="@+id/view_finder_imgview"
+            android:id="@+id/view_finder_imageview"
             android:layout_width="240dp"
             android:layout_height="320dp"/>
 
@@ -22,5 +22,6 @@
             android:id="@+id/graphic_overlay"
             android:layout_width="240dp"
             android:layout_height="320dp"/>
+
     </RelativeLayout>
 </layout>

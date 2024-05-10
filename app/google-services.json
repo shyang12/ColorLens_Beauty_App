@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733886166714",
+    "project_id": "colorlens-44294",
+    "storage_bucket": "colorlens-44294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733886166714:android:a2be7101ad21ca7dd67483",
+        "android_client_info": {
+          "package_name": "kr.ac.seokyeong.colorlens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1qIcTxH9jHGkOhVygCGV1-rIMSixOag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
