@@ -33,6 +33,8 @@
 ### 3.2  firebase-ml-vision-face-model
 
 ## 4. Result
-- 카메라 화면 결과
+- 렌즈 적용 & 미적용 카메라 화면 결과
+
+![KakaoTalk_20240510_212712990](https://github.com/shyang12/ColorLens_Beauty_App/assets/85710913/dc981de6-2297-4335-b7eb-26b63b9f601e)  ![KakaoTalk_20240510_213215826](https://github.com/shyang12/ColorLens_Beauty_App/assets/85710913/fea6bd73-1d5d-4ff5-9fb6-96eca77c66ec)
 
   
