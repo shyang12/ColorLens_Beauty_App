@@ -3,12 +3,12 @@
  
  - 안드로이드 스튜디오에서 Kotlin을 기반으로 뷰티앱(컬러 렌즈)을 구현하는 프로젝트
 
-`DataBinding` `Firebase` `Firebase-ml-language`
+`DataBinding` `Firebase` `firebase-ml-vision` `firebase-ml-vision-face-model` `camera`
 
 ## 1. Co-Development Environment   
 ### 1. 1 Environments
 - Windows 10
-- Android Studio / Kotlin 
+- Android Studio / Kotlin, JAVA
 - Firebase
 - GitHub
 
@@ -20,12 +20,19 @@
 ```bash
 ├── main
 │   ├── MainActivity.kt
+│   ├── GraphicOverlay.java
+│   └── Util.kt
 ├── ui
 │   ├── layout
 │   │   └── activity_main.xml
 ```
 
 ## 3. Firebase   
-### 3.1  firebase
+### 3.1  firebase-ml-vision
+
+### 3.2  firebase-ml-vision-face-model
 
 ## 4. Result
+- 카메라 화면 결과
+
+  
